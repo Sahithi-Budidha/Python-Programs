@@ -1,0 +1,2 @@
+team=srilanka
+print(team);
